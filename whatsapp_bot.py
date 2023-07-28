@@ -1,6 +1,4 @@
 from tkinter import *
-from tkinter import ttk
-ttk.Label
 root = Tk()
 root.geometry('400x500')
 root.title('Whatsapp Bot')
